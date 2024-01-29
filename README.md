@@ -1,5 +1,6 @@
 # flutter_tic_tac_toe
 
+<img src="https://github.com/chathudilzo/flutter_tic_tac_toe/assets/93638679/f1d57124-39ef-4c36-94be-0410bdb05d57" width=200>
 A new Flutter project.
 
 ## Getting Started
